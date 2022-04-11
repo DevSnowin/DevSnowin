@@ -1,6 +1,6 @@
 ### Hi there 👋, Snowin
 #### Web Developer and Designer
-![Web Developer and Designer](https://pbs.twimg.com/profile_banners/1421107679435530241/1642794291/1500x500)
+![Web Developer and Designer](https://github.com/DevSnowin/DevSnowin/blob/main/cover.jpg)
 
 I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my Twitter at https://twitter.com/j_snowin or https://www.linkedin.com/in/devsnow
 
