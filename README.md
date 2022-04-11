@@ -5,7 +5,7 @@
 
 I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my Twitter at https://twitter.com/j_snowin or https://www.linkedin.com/in/devsnow
 
-##Skills and Experience
+## Skills and Experience
 * ⚛️ React
 * 📱React Native
 * 💻 HTML, CSS, JS
