@@ -50,7 +50,7 @@ I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing 
 <br/>
 
 ## Statistics 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSnowin)](https://github.com/DevSnowin?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSnowin&theme=react)](https://github.com/DevSnowin?tab=repositories)
 
 [![Snowin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSnowin&theme=react)](https://github.com/DevSnowin?tab=repositories)
 
