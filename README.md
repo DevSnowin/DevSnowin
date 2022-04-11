@@ -1,10 +1,16 @@
-### Hi there 👋, Snowin
-#### Web Developer and Designer
 ![Web Developer and Designer](https://github.com/DevSnowin/DevSnowin/blob/main/cover.jpg)
+
+### Hi there 👋, I'm Snowin
+#### Web Developer and Designer
 
 I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my Twitter at https://twitter.com/j_snowin or https://www.linkedin.com/in/devsnow
 
-Skills: REACT | JS | HTML | CSS
+##Skills and Experience
+* ⚛️ React
+* 📱React Native
+* 💻 HTML, CSS, JS
+
+<!-- Skills: REACT | JS | HTML | CSS -->
 
 - 🔭 I’m currently working on Impler-Corp 
 - 🌱 I’m currently learning Gatsbyjs 
