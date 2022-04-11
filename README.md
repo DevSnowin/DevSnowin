@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my Twitter at https://twitter.com/j_snowin or https://www.linkedin.com/in/devsnow
+
+[![Snowin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSnowin)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DevSnowin/DevSnowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
