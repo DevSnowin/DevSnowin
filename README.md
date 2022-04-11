@@ -3,12 +3,12 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Snowin
 #### Web Developer and Designer 🧑‍💻
 
-I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my [Personal Site](https://www.devsnow.in).
+I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my [Personal Site](https://www.devsnow.in) for more details.
 
 ## About me 👀
 - 🔭 I’m currently a B.E Student
 - 🌱 I’m currently learning Gatsbyjs 
-- 👯 I’m looking to collaborate on Open Source Projects 
+- 👯 I’m looking forward to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with Full Stack Development Senior Guidance 
 - 💬 Ask me about Web Dev 
 - 📫 How to reach me: [Personal Site](https://www.devsnow.in)
@@ -57,4 +57,4 @@ I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing 
 <br/>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/snowin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/snowin" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/snowin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/snowin" /></a></p><br><br>
