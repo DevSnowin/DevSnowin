@@ -3,7 +3,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Snowin
 #### Web Developer and Designer
 
-I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my [Personal Site](devsnow.in).
+I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my [Personal Site](https://www.devsnow.in).
 
 ## About me 👀
 - 🔭 I’m currently working on [Impler-Corp](https://github.com/Impler-Corp)
@@ -11,7 +11,7 @@ I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing 
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with Full Stack Development Senior Guidance 
 - 💬 Ask me about Web Dev 
-- 📫 How to reach me: [Personal Site](devsnow.in)
+- 📫 How to reach me: [Personal Site](https://www.devsnow.in)
 - 😄 He/Him
 
 ## Skills and Experience
@@ -34,9 +34,6 @@ I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing 
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSnowin)](https://github.com/anuraghazra/github-readme-stats)
-
-## Streak Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevSnowin)
 
 ## Github Stats
 [![Snowin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSnowin&theme=react)](https://github.com/DevSnowin?tab=repositories)
