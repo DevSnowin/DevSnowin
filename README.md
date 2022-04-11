@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Snowin
+#### Web Developer and Designer
+![Web Developer and Designer](https://pbs.twimg.com/profile_banners/1421107679435530241/1642794291/1500x500)
 
 I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses to grow. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my Twitter at https://twitter.com/j_snowin or https://www.linkedin.com/in/devsnow
+
+Skills: REACT | JS | HTML | CSS
+
+- 🔭 I’m currently working on Gatsbjs.
 
 [![Snowin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSnowin&theme=react)](https://github.com/DevSnowin?tab=repositories)
 
