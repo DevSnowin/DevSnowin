@@ -1,6 +1,6 @@
 ![Web Developer and Designer](https://github.com/DevSnowin/DevSnowin/blob/main/cover.jpg)
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Snowin
+# Hi there 👋, I'm Snowin
 #### Web Developer and Designer 🧑‍💻
 
 I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my [Personal Site](https://www.devsnow.in) for more details.
