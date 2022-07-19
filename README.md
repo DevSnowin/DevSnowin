@@ -55,6 +55,3 @@ I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing 
 [![Snowin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSnowin&theme=graywhite)](https://github.com/DevSnowin?tab=repositories)
 
 <br/>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/snowin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/snowin" /></a></p><br><br>
