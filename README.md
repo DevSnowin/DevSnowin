@@ -40,15 +40,6 @@ I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing 
 
 <br/>
 
-## Social Links 🔗
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/DevSnowin)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devsnowin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j_snowin/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsnow/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/snowintj123)
-
-<br/>
-
 ## Statistics 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSnowin&theme=graywhite)](https://github.com/DevSnowin?tab=repositories)
 
