@@ -1,4 +1,4 @@
-![Web Developer and Designer](https://github.com/DevSnowin/DevSnowin/blob/main/cover.jpg)
+![Web Developer and Designer](https://pbs.twimg.com/profile_banners/1421107679435530241/1673254544/1500x500)
 
 # Hi there 👋, I'm Snowin
 #### Web Developer and Designer 🧑‍💻
