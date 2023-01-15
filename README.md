@@ -12,6 +12,6 @@ I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing 
 - 😄 He/Him
 
 ## You can reach me
-[🌎 Portofolio](devsnow.in) | or | [🐦 Twitter](zipy.vercel.app/api/snowin/twitter)
+[🌎 Portofolio](https://devsnow.in) | or | [🐦 Twitter](https://zipy.vercel.app/api/snowin/twitter)
 
 <br/>
