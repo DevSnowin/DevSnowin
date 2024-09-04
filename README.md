@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Snowin
 #### Fullstack Developer and Designer 🧑‍💻
 
-I build software. I like to learn about new technologies and frameworks. I'm also interested in wireframing, user interface/user experience, and design in general. For additional information, please visit [My Personal Site](https://www.devsnow.in).
+I build software. I like to learn new technologies and frameworks. I'm also interested in wireframing, user interface/user experience, and design in general. For additional information, please visit [My Personal Site](https://www.devsnow.in).
 
 ## About me 👀
 - I’m working on [DevMailer](https://devmailer.vercel.app) and [Zipy](https://zipy.vercel.app).
