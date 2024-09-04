@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Snowin
 #### Fullstack Developer and Designer 🧑‍💻
 
-I'm Snowin from India, and I do website, Graphics Design, and Digital Marketing for businesses. I enjoy learning languages and frameworks like React and React Native. I also enjoy doing stuff like wireframing, UI/UX, and designs in general. You can check out my [Personal Site](https://www.devsnow.in) for more details.
+I build software. I like to learn about new technologies and frameworks. I'm also interested in wireframing, user interface/user experience, and design in general. For additional information, please visit [My Personal Site](https://www.devsnow.in).
 
 ## About me 👀
 - I’m working on [DevMailer](https://devmailer.vercel.app) and [Zipy](https://zipy.vercel.app).
